@@ -27,6 +27,8 @@ namespace cg
 
 		unsigned raytracing_depth;
 		unsigned accumulation_num;
+
+		bool show_edges;
 	};
 
 }// namespace cg
