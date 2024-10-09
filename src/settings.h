@@ -5,6 +5,8 @@
 #include <string>
 #include <vector>
 
+
+
 namespace cg
 {
 	struct settings
@@ -31,4 +33,6 @@ namespace cg
 		bool show_edges;
 	};
 
-}// namespace cg
+
+
+} // namespace cg
